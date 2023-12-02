@@ -29,12 +29,3 @@ end
 
 puts p1.map(&:to_i).sum
 puts p2.map(&:to_i).sum
-
-__END__
-two1nine
-eightwothree
-abcone2threexyz
-xtwone3four
-4nineeightseven2
-zoneight234
-7pqrstsixteen
